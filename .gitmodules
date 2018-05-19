@@ -1,9 +1,9 @@
 [submodule "uses-of-ci"]
 	path = uses-of-ci
-	url = git@github.com:ssx/talk-uses-of-ci.git
+	url = https://github.com:ssx/talk-uses-of-ci.git
 [submodule "blank-starter"]
 	path = blank-starter
-	url = git@github.com:ssx/talk-blank-starter.git
+	url = https://github.com:ssx/talk-blank-starter.git
 [submodule "composer-micro-packages"]
 	path = composer-micro-packages
-	url = git@github.com:ssx/talk-composer-micro-packages.git
+	url = https://github.com:ssx/talk-composer-micro-packages.git
